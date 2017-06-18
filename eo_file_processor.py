@@ -12,7 +12,6 @@ import glob
 import StringIO
 
 __author__  = "Uday Bhanu"
-__author_email__ = "udabhanu@cisco.com"
 __version__ = "1.0.0"
 __all__ = ["table_truncation", "xlsm_file_processing", "tab_file_processing", "csv_file_processing", 
             "xlsx_file_processing", "table_reindexing",]
